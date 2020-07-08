@@ -46,4 +46,4 @@ ax = fig.add_subplot(1, 1, 1)
 
 ### Suporte ou Contato
 
-Gostaria de contribuir, tirar dúvidas, indicar bugs? Entre em contato em (felipeiag2012@gmail.com)
+Gostaria de contribuir, tirar dúvidas, indicar bugs? Entre em contato com [estagiário PAE 2020](felipeiag2012@gmail.com).
