@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Bem vindo à Página do Projeto PAE 2020
 
-You can use the [editor on GitHub](https://github.com/FelipeLCavalcante/PAE_2020_AGG0243/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nossa intenção aqui, foi ilustrar a importância do uso de equações diferencias (ED's), com alguns exemplos aplicáveis ao estudo da Geofísica. Com esse objetivo em mente, disponibilizamos alguns códigos básicos em linguagem Python, que permitem a execução e interação do estudante. Os códigos podem ser alterados pelo usuário que tenha uma noção básica de Python, modificando valores de váriáveis de acordo com o modelo de interesse. Em alguns casos, ferramentas interativas do ipywidgets permitem a interação em tempo real, mesmo que não se tenha familiaridade com programação.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
