@@ -3,11 +3,9 @@
 Nossa intenção aqui, foi ilustrar a importância do uso de equações diferencias (ED's), com alguns exemplos aplicáveis ao estudo da Geofísica. Com esse objetivo em mente, disponibilizamos alguns códigos básicos em linguagem Python, que permitem a execução e interação do estudante. Os códigos podem ser alterados pelo usuário que tenha uma noção básica de Python, modificando valores de váriáveis de acordo com o modelo de interesse. Em alguns casos, ferramentas interativas do ipywidgets permitem a interação em tempo real, mesmo que não se tenha familiaridade com programação.
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Disposição de arquivos
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os arquivos estão organizados em dois grupos, um de códigos executáveis, outro de mini relatórios que fornecem detalhes básicos sobre os problemas abordados e a composição dos códigos. Arquivos com extensão "ipynb", devem ser executados em ipyhton notebook, já aqueles com extensões "py", em qualquer IDE rodando Python 3.
 
 ```markdown
 Syntax highlighted code block
