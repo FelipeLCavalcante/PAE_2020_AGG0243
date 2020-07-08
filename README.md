@@ -11,8 +11,6 @@ Os arquivos estão organizados em dois grupos, um de códigos executáveis, outr
 
 Os códigos estão estruturados em alguns blocos para facilitar o entendimento e modificações. O trecho abaixo é um exemplo de bloco responsável pela chamada de módulos do Python necessários ao funcionamento dos programas.
 
-```markdown
-
 ```python
 # MODULOS PYTHON
 
@@ -20,29 +18,16 @@ import numpy as np
 import math as mh
 import matplotlib.pyplot as plt
 ```
-Syntax highlighted code block
+Abaixo temos um exemplo de bloco de funções, que são responsáveis pelo cálculo das grandezas envolvidas no problemas.
 
-# Header 1
-## Header 2
-### Header 3
+```python
+# FUNCOES
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+def pot_g(gamma,a,rho,x,x0,z,z0): #calcula o potencial gravitacional
+    U = gamma*((4/3)*np.pi*(a**3)*rho)/((x-x0)**2+(z-z0)**2)**(1/2)
+    return U
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Suporte ou Contato
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FelipeLCavalcante/PAE_2020_AGG0243/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gostaria de contribuir, tirar dúvidas, indicar bugs? Entre em contato em felipeiag2012@gmail.com 
