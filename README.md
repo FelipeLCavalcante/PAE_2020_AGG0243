@@ -12,8 +12,8 @@ Os arquivos estão organizados em dois grupos, um de códigos executáveis, outr
 Os códigos estão estruturados em alguns blocos para facilitar o entendimento e modificações. O trecho abaixo é um exemplo de bloco responsável pela chamada de módulos do Python necessários ao funcionamento dos programas.
 
 ```markdown
-`Code
-# MODULOS PYTHON
+`
+**# MODULOS PYTHON**
 import numpy as np
 import math as mh
 import matplotlib.pyplot as plt
