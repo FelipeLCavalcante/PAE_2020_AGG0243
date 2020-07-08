@@ -10,9 +10,11 @@ Os arquivos estão organizados em dois grupos, um de códigos executáveis, outr
 ```markdown
 Syntax highlighted code block
 # MODULOS PYTHON
+`Code
 import numpy as np
 import math as mh
 import matplotlib.pyplot as plt
+`
 
 # Header 1
 ## Header 2
