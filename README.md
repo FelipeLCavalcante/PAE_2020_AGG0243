@@ -7,14 +7,18 @@ Nossa intenção aqui, foi ilustrar a importância do uso de equações diferenc
 
 Os arquivos estão organizados em dois grupos, um de códigos executáveis, outro de mini relatórios que fornecem detalhes básicos sobre os problemas abordados e a composição dos códigos. Arquivos com extensão "ipynb", devem ser executados em ipyhton notebook, já aqueles com extensões "py", em qualquer IDE rodando Python 3.
 
+### Estrutura básica de código
+
+Os códigos estão estruturados em alguns blocos para facilitar o entendimento e modificações. O trecho abaixo é um exemplo de bloco responsável pela chamada de módulos do Python necessários ao funcionamento dos programas.
+
 ```markdown
-Syntax highlighted code block
 # MODULOS PYTHON
-`
 import numpy as np
 import math as mh
 import matplotlib.pyplot as plt
-`
+```
+```markdown
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
